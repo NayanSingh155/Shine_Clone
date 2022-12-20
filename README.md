@@ -5,7 +5,7 @@
 Shine.com is a job career guidace and job searching website , it is an individual mini project ,completed in 4 days.
 
 ## Deployed Link
- https://capable-downtown-7255.vercel.app/
+https://rococo-fairy-d1a23d.netlify.app/
  
  ## Techstack & Libraries
  
